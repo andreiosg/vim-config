@@ -1,3 +1,5 @@
+My .vimrc + colorscheme for the Vim text editor.
+
 Plugins:
     - Vundle
     - YouCompleteMe
